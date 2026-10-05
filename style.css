@@ -323,9 +323,9 @@ nav {
   cursor: pointer;
 }
 
-.card-1-image-zoom:hover img{
+/* .card-1-image-zoom:hover img{
   transform: scale(1.1);
-}
+} */
 
 .card-1 a {
   text-decoration: none;
